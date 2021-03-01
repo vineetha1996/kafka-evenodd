@@ -1,7 +1,8 @@
 # kafka-evenodd
 
 * In this application i have taken maximum number as 50, minimum number as 10 and range as "max - min + 1".
-* Created random number: "rand = (int)(Math.random() * range) + min".
+#### Created random number: 
+"rand = (int)(Math.random() * range) + min".
 * This app will let us know whether the randomly generated integer is even or odd.
 
 
