@@ -1,9 +1,8 @@
 # kafka-evenodd
 
-In this application i have taken maximum number as 50, minimum number as 10 and range as "max - min + 1".
-Created random number: "rand = (int)(Math.random() * range) + min".
-
-This app will let us know wether the randomly generated integer is even or odd.
+* In this application i have taken maximum number as 50, minimum number as 10 and range as "max - min + 1".
+* Created random number: "rand = (int)(Math.random() * range) + min".
+* This app will let us know whether the randomly generated integer is even or odd.
 
 
 ## Prerequisities
@@ -57,4 +56,4 @@ java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kaf
 Randomly generated 10 values from the given range.
 
 ## Output values:
-Gives wether generated value is even or odd.
+Gives whether generated value is even or odd.
